@@ -3,4 +3,4 @@ project(leetcode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(leetcode ./src/3Sum.cpp)
+add_executable(leetcode ./src/3SumClosest.cpp)
